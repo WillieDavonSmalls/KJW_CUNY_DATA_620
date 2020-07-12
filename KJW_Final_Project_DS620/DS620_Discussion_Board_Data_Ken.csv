@@ -1,0 +1,313 @@
+Thread_Name,Initial_Post_or_Comment,Author,Response To,Thread_Content
+Google Ads,1,Vanita Thompson,Vanita Thompson,"Google Ads provides analytic reporting on how people use a website. Google Analytics tracks what people do after clicking an ad. It traces and provides information on how people found a particular website, and how the website was explored.  Using the information, a website owner can identify trends and generate ideas to enhance their website. For example, you can learn how much time is spent on a site, what items were browsed, and what items were placed in the cart. Those factors can provide leads on enhancing customers' experience, which in turn can help increase conversions like sales and return on ad spend."
+Google Ads,2,Zachary Alexander,Vanita Thompson,"Hi Vanita -- I definitely agree that Google Ads provides a really good platform for analytical reporting and marketing. I used to work pretty closely with Google's suite of marketing tools and think they are really advanced in their ability to measure advertisement/marketing reach, as well as user and website activity! Google Analytics has continued to a leader on this front, and I'm curious to see if we talk much about this in our course!"
+"Using sentiment analysis to predict employee satisfaction based on Glassdoor data
+COLLAPSE",1,Jagdish Chabria,Jagdish Chabria,"I came across an interesting study carried out by some researchers at Stanford University. In this study, they conducted sentiment analysis on employee reviews on www.glassdoor.com. This website is a very popular website used by job seekers to learn more about their target employers. It allows employees to anonymously post their opinions about working at different companies. The Stanford researchers ' objective was to use sentiment analysis to predict the ""number of stars"" rating that is sometimes provided by the employee reviewers - the underlying idea being that an employee review that is deemed to be very positive from a sentiment perspective would be associated with a 5-star rating and so on. Companies can adopt a similar approach to analyze what their employees are feeling (employee satisfaction and perception) about different policies based on internal data (surveys) and external data (websites such as Glassdoor) and use that to modify or re-affirm their messaging as well as their policies. The full study can be found here:
+
+https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/reports/6880837.pdf"
+Monitor Marketing Efforts,1,Mia Chen,Mia Chen,"Real time sentiment analysis can track campaigns at specific point in time, such as when new ad launches. Take Dove for example, the company posed an ad on Facebook showing a woman transforming into an entirely different race after using their product. They received a huge backlash from women saying that the ad made them angry and uncomfortable. Dove picked up on these negative sentiments right away, removed the ad from Facebook, and released an apology. Quick actions like this are essential to limit damage to the brand's reputation and retain clients, and can quickly tell you if a campaign or ad is successful or not. 
+
+source: https://monkeylearn.com/blog/brand-sentiment/"
+Week5 Discussion,1,Vanita Thompson,Vanita Thompson,"Discussion Prompt
+This recent article describes how organizations are using sentiment-analysis software to better understand how employees are feeling, since the ability to attract and retain key employees is increasingly necessary for an organization to succeed:
+
+Rachael King (2015): Companies Want to Know: How do Workers Feel?
+
+Describe an interesting use case that describes how an organization uses (or could use) sentiment analysis to gain insights about employees, customers, products, or...? Include the business goals, and the available or potential sources of data.
+
+Discussion
+Companys may use sentiment analysis to assist with recruiting new hires. Similar to sites like LinkedIn and Indeed, companies use sentiment analysis software to extract data from job applications. Recruiters can filter applications and connect eligible applicants to companies based on certain criteria. This can be a useful tool, as it minimizes the work required from recruiters. Previously, recruiters spent hours going through resumes. These advancements have made the hiring process more efficient."
+ASAPP,1,Jeremy O'Brien,Jeremy O'Brien,"ASAPP is a company I came across late last year.  They create software to support customer service teams using real-time speech transcription, sentiment analysis, next step prediction, knowledge based information retrieval, and content summarization.   They claim that customer service agents still interact with customers by phone 90% of the time, but also mine chat and text to get as well-rounded a view of individual customers as possible.
+
+ASAPP focuses on a few use cases for customer like jetBlue, dish, and Sprint.  The first two - customer care and sales - leverage learning what the best customer service personnel do well (identified based on desired outcomes) in order to guide others in either efficiently resolving customer needs on first contact or garnering higher close rates / conversions / yields for sales calls.  Additionally, ASAPP provide cross-channel customer analytics that provide real-time insights and don't require costly, laggy surveying.
+
+For anyone who's interested, their R&D team publishes a good deal and writes a lot of art (i.e. patents)."
+Performance Reviews,1,Jithendra Seneviratne,Jithendra Seneviratne,"I'm unable to access the WSJ article and the link to the PDF does not exist.
+
+In any case, here are my. thoughts on using sentiment analysis on performance reviews. Employees are often asked to rate their managers as well as the company on certain metrics. these rating s are usually on a 3 - 10 point scale. They are also given the opportunity to comment via text boxes. While many employees will be reluctant to given low ratings or be explicit in their criticisms, many implicit sentiments can be gained from NLP. Even if an employee does not use terms such as 'bad', 'terrible', 'ineffective' or 'poor' a neutral review can speak volumes, especially against a pre-defined benchmark. 
+
+Companies can use sentiment analysis to gauge if the general morale of staff is falling, or if a particular manager seems to be getting more 'neutral'  text reviews than others, even if his/her point scale ratings are high.
+
+It's about reading between the lines!"
+Performance Reviews,2,Vanita Thompson,Jithendra Seneviratne,Nice use case scenario. It seems efficient and straight forward.
+Stanford Talks on Sentiment Analysis,1,Simon Ustoyev,Simon Ustoyev,"There is a series of YouTube videos on Sentiment Analysis by Dan Jurafsky from Stanford University.  In his introductory video, https://www.youtube.com/watch?v=S4z0UG07-b0, he mentions several good use cases for sentiment analysis.  For example, I liked the one where SA can be applied to products, like printers, where customer reviews are analyzed not just for the overall rating of the product but also on sentiment about key aspects of the product as well, such as ease of use, value, setup, print speed, customer service and etc."
+Stanford Talks on Sentiment Analysis,2,Subhalaxmi Rout ,Simon Ustoyev,"Thank you, Simon, for sharing the video link for sentiment analysis (SA). I got to know the interesting tasks of SA from this video such as simple tasks, more complex tasks, and advanced tasks.
+
+Simple task: need to find, text/document is positive or negative?
+
+Complex task: Rank or rating of the text 1 to 5.
+
+Advanced task: detect the source (who write the text), target (text about what topic), and complex attitude (like, love, hate, value, desire, etc.)"
+Sentiment Analysis for Customer Interactions,1,Elina Azrilyan,Elina Azrilyan,"Sentiment analysis can be used to prioritize customer support tickets and improve satisfaction. If an issue the customer is experiencing with the product is the kind that requires immediate attention and causes major grief - those tickets would be handled as a priority. Especially when resources are limited - this could be an efficient way of interacting with customers and resolve problems in a way that will minimize the damage to your company’s reputation. In our highly digital day and age - it is very easy for a customer to spread the negative news about their experience with a company and influence the opinions of their network about the quality of customer service and products. Sentiment analysis can also be used to quickly measure that aspect of things as well - so that the company can see if the customer service strategy they use is paying off and what issues are at the top of customers’ mind so that those can be resolved pro-actively. For instance, if customers are unhappy with the ease of contacting customers service - they might give up on that effort all together and the company will never become aware of the issues and lose customers even before it has a chance to improve anything.  "
+Sentiment Analysis for Customer Interactions,2,Simon Ustoyev,Elina Azrilyan,"Good ideas, Elina, about improving the customer service process.
+
+I would also suggest that if the backlog of less critical issues builds up, that someone in the organization should pay attention to it as well, because these cannot be ignored and are likely to be more in numbers than any major complaints unless the product or service has serious flaws.  My guess is that most of these issues can be a matter of improving knowledge base about the product and perhaps require pushing the information closer to customers (distributed literature or phone app.) or building these minor knowledge or issue resolutions in to an automated chatbot.  These measures will take away the load from customer representatives and allow them to pay more attention to unique and more complicated cases, thus improving the overall customer experience."
+Sentiment Analysis for Customer Interactions,2,Mia Chen,Elina Azrilyan,"I agree with Simon that most of the common Q&A type of supports can be effortlessly provided by an automated chatbot  and thus allow customer representatives to spend more time on critical or unique issues that still persist. In this case, sentiment analysis will be very useful to determine what should be included and added to the Q&A support inventory."
+Sentiment Analysis for Customer Interactions,2,Murat Akyildirim,Elina Azrilyan,Thanks for Sharing Elina. Something similar is being done where i work. It all depends on what question the business wants to get answered. I think coming up with the right problem statement is really important when it comes to analyzing customer service support text.
+Teams Chat Messages,1,Sheryl Piechocki,Sheryl Piechocki,"Many companies have some sort of instant messaging app for employees to communicate.  My own company recently switched from Skype to Teams Chat.  With about 95% of my company of over  50,000 employees working at home now, we have been using Teams Chat extensively to communicate with each other.  We use if for work-related chat and also for personal chat.  A company could analyze all of this message data to gain insight into how the employees feel about a wide-range of topics, including the leadership team, the company goals, employee morale, etc.  It would definitely be a better barometer of employees' feelings than the many surveys we are bombarded with that only ask for ratings of 1 to 5 on some preselected questions."
+Teams Chat Messages,2,Elina Azrilyan,Sheryl Piechocki,"Sheryl, you make a very good point - since the data is out there it would be a good way for a company to measure employee satisfaction and improve employee engagement without resorting to surveys which I believe can introduce bias. Looking at the data in bulk - would remove the dangers of singling out a particular employee or group and risk punishment or consequences for an unpopular opinion. "
+Advertising Billboards,1,Mikhail Kollontai,Mikhail Kollontai,"More and more billboards these days are electronic AKA capable of changing their image. I can envision a system where social media posts from the immediate vicinity were scraped and analyzed in order to evaluate the response. Not only would mentions be counted, but the sentiment associated with each post - providing a rough idea of not only the degree to which the advertisement caught the public eye, but also the type of feeling the content of the advertisement garnered. This information could be used to pull advertisements resulting in overwhelmingly negative responses earlier than planned and potentially leave the more effective ones up (charging the company more to leave them up having shown the impact data). "
+Sentiment Analysis for Improving customer support in new products,1,Vijaya Cherukuri,Vijaya Cherukuri,"Improving customer support for new products:  Research has shown that more than 25 percent of customers stop using a product after a single bad customer service experience. However, with sentiment analysis organizations can track sentiment across various social media platforms, blogs and forums which give the customer service team key areas to improve on. They can also use the opinion generated to put together an emergency plan on how to get over such situations. 
+
+An example interface used by Google Shopping to show sentiment of aspects in customer reviews."
+Sentiment Analysis for Improving customer support in new products,2,Priya Shaji,Vijaya Cherukuri,"Good point Vijaya, Giving an overview of sentiment analysis to an organization would help them to improve in many ways. I think sentiment analysis combined with analysis of how variable(sentiment analysis variables) are correlated to each other would provide an in-depth view of the scenario."
+Sentiment Analysis of Online Employee Review Data,1,Priya Shaji,Priya Shaji,"The power of online employee reviews extends far beyond the scope of finding employment. John Phillips built `InvestInMe`, a product that facilitates socially responsible investing. He built his product to serve the needs of individual investors who have limited access to the information required to make investment decisions in the rapidly growing environmental, social and governance(ESG) space.
+
+
+By entering the name of a publicly-traded company in this web app, investors get a dashboard view of the overall sentiment of employees of that company, as well as a breakdown of employee reviews by topic area (Enjoyment, Flexibility, Work/Life Balance, Pay, and Growth Opportunity). The dashboard also displays how employee sentiment has evolved over time, and uses this information to predict future changes in sentiment. Because different investors will have different personal guidelines that shape their ESG strategies, John worked to make the dashboard view as information-rich as possible to maximize the value of his tool to a wide range of investors.
+
+InvestInMe stands as an innovative use of Glassdoor reviews to inform decisions in an unrelated domain. Reviews often contain “insider information” regarding how a company treats its workers, and can provide insights into a company’s philosophy around sustainability. By distilling employee sentiment data, John ensured that individual investors can be confident they have the information they need to invest in line with their own ethics.
+
+The following article describes various use cases which used employee sentiment analysis: 
+
+https://blog.insightdatascience.com/using-nlp-to-gain-insights-from-employee-review-data-da15687f311a
+
+The power of online employee reviews extends far beyond the scope of finding employment. John Phillips built `InvestInMe`, a product that facilitates socially responsible investing. He built his product to serve the needs of individual investors who have limited access to the information required to make investment decisions in the rapidly growing environmental, social and governance(ESG) space.
+
+
+By entering the name of a publicly-traded company in this web app, investors get a dashboard view of the overall sentiment of employees of that company, as well as a breakdown of employee reviews by topic area (Enjoyment, Flexibility, Work/Life Balance, Pay, and Growth Opportunity). The dashboard also displays how employee sentiment has evolved over time, and uses this information to predict future changes in sentiment. Because different investors will have different personal guidelines that shape their ESG strategies, John worked to make the dashboard view as information-rich as possible to maximize the value of his tool to a wide range of investors.
+
+InvestInMe stands as an innovative use of Glassdoor reviews to inform decisions in an unrelated domain. Reviews often contain “insider information” regarding how a company treats its workers, and can provide insights into a company’s philosophy around sustainability. By distilling employee sentiment data, John ensured that individual investors can be confident they have the information they need to invest in line with their own ethics.
+
+The following article describes various use cases which used employee sentiment analysis: 
+
+https://blog.insightdatascience.com/using-nlp-to-gain-insights-from-employee-review-data-da15687f311a
+
+"
+Sentiment Analysis of Online Employee Review Data,2,Vijaya Cherukuri,Priya Shaji,"Good example Priya. Glassdoor is one of the good example where Sentiment Analysis is used in analyzing the reviews.
+
+In some cases sentiment scores are used to determine how similar companies were to one another."
+Sentiment Analysis of Online Employee Review Data,2,Jithendra Seneviratne ,Priya Shaji,"This is a good use case for NLP. We all search Glassdoor reviews before applying to a company, and this type of app could be used to help potential employees judge companies against an industry standard for sentiment before applying."
+Sentiment Analysis to Measure Competitors,1,Zachary Alexander,Zachary Alexander,"I came across a particular resource that I thought was interesting related to utilizing sentiment analysis to measure internal business services and branding against competitors. In this article titled, ""A novel social media competitive analytics framework with sentiment benchmarks"", the authors discussed pooling together text data and feedback across various social media platforms (Facebook, Twitter, YouTube, blogs, forums, etc.) for a company's competitors, and finding ways to use sentiment analysis to measure concrete components of their shared market. In the article, they used retail and product stores such as Costco, Home Depot, Walmart, KMart, and Kohls to compare textual data related to product and customer service groupings. In the end, they used this idea to develop a dashboard that visualized comparisons across the different companies. This could be a huge asset to any business, to be able to pool data across social media platforms to build measurements about where each competitor seems to be doing well, and where they may have a competitive advantage. It also helps a company focus in on places where they could outcompete their competitors, and find ways to reinnovate their business model.
+
+
+Many companies have been founded to provide tools and products related to this idea. A few that I found include:"
+Sentiment Analysis to Measure Competitors,2,Vijaya Cherukuri,Zachary Alexander,"Good example Zachary, we can use sentiment score with various parameters to determine how similar companies and competitors were to one another."
+Sentiment Analysis to Measure Competitors,2,"Abdellah Ait Elmouden 
+",Zachary Alexander,Good example. Sentiment analysis should most definitely be part of businesses social listening strategy to ensure that they capitalize on positive mentions and address negative ones.
+Sentiment Analysis to Measure Competitors,2,Amber Ferger,Zachary Alexander,"This is really interesting and I can most certainly see the value in this! Identifying the strengths of competitors across a range of topics (products, service, support, etc) can hone in on what works for other companies. Conversely, if a competitor releases a new product or changes something about its business, one can use this as a gauge to see how it performs in the market before releasing a similar sort of thing. It's kind of like letting the competitor be the guinea pig before jumping in oneself!"
+Employee Sentiment Analysis,1,Murat Akyildirim,Murat Akyildirim,"Sentiment Analysis can give managers the understanding of the workplace environment and improve accordingly where employees like their jobs. They can use sentiment analysis software or platforms to enhance employee engagement, improve the certain process based on the insights they gather such as onboarding, office structure, collaboration, training and communication.
+
+ 
+
+For example, in certain organizations employees might be dissatisfied and do not engage with the company culture. Instead of creating employees surveys, gathering feedback from managers quarterly or annually (which takes a long time) , organization can utilize sentiment analysis solution by analyzing vast among of employee data and records. The organization can analyze the email communications, employee tone via different channels and can gather insights if the employee is dissatisfied with the existing processes. Email analysis can include can also help figure out not only employee engagement but also department engagement within the overall organization.
+
+ 
+
+As an example sentiment analysis tool, Jive Software Solutions, tackled a business goal to unite employees in a single community. In order to do that, they created an intranet webapp called the Planet where employees interact with each other, share ideas and engage within the organization. These ideas and engagement combined with email and other communication channels further goes through sentiment analysis to improve employee engagement and satisfaction."
+Employee Sentiment Analysis,2,Murat Akyildirim,Mael Illien,"Hi Murat. I also came across the same articles. I'm a bit skeptical of email analysis though, especially for intra company data. Personally, I wouldn't write down my discontent with a company to a colleague for my employer to find.  "
+Sentiment Analysis Uses in Business,1,Subhalaxmi Rout,Subhalaxmi Rout,"Sentiment analysis uses machine learning to evaluate text (online conversations, emails, surveys, news articles, etc.) to determine if the sentiment expressed is positive, negative, or neutral. It’s used to automatically pull opinions about companies and products, and analyze them as a whole, without the need for human assistance. 
+
+Improve customer experience company analyze customer support and customer feedback.
+
+Customer Support: Sentiment analysis with natural language understanding (NLU) reads regular human language for meaning, emotion, tone, and more, to understand customer requests, just as a person would. The company can automatically process customer support tickets, online chats, phone calls, and emails by sentiment, which might also indicate urgency and route to the appropriate team.
+
+Customer Feedback: Gain insights from the troves of customer feedback available (online reviews, social media, surveys) by using sentiment analysis, and save hundreds of employee hours. Sentiment analysis can read beyond simple definition to detect sarcasm, read common chat acronyms (lol, rofl, etc.), and correct for common mistakes like misused and misspelled words.
+
+Improve employee satisfaction, the company can perform an analysis on “Voice of employee”.
+
+Voice of employee: Engage employees, reduce turnover, and increase productivity. Use AI to evaluate employee surveys or analyze Glassdoor reviews, emails, Slack messages, and more (without feeling like Big Brother). Sentiment analysis software allows the company to analyze employee opinions subjectively, with no human input.
+
+Similarly, improve product quality, the company apply sentiment analysis on products.
+
+Product Analysis: Sentiment analysis is the automated process of understanding the sentiment or opinion of a review given for a product. Machine learning technology can provide insights by automatically analyzing product reviews and separating them into tags: Positive, Neutral, Negative. By using sentiment analysis to structure product reviews easy to understand if customers like or dislike the products.
+
+Business goals: Improve product quality, reduce employee retention(and keep employees happy), and keeping customers happy.
+
+Potential data sources: Product (product reviews), Employee (Glassdoor reviews, slacks, emails, etc), Customer (customer reviews, and customer support ratings)"
+S. A. as decision support in employee recruitment,1,"Abdellah Ait Elmouden 
+","Abdellah Ait Elmouden 
+","Employee recruitment activities become important in a company to support its business activities and productivity. But these companies often get employees who do not fit the specified criteria because the company does not have fixed standards. sentiment analysis that will be used as decision Support in employee recruitment.
+
+This study used data taken from the writing or essay of prospective new employees for further analysis using sentiment analysis. Sentiment Analysis was a way to extract one's feelings, opinions and habits from an article. Sentiment analysis could be used as an alternative psychological assessment of someone from writing activities."
+Film Production - Script Writing,1,Jack Russo,Jack Russo,"Not that I would ever condone a studio write a film script this way, but it seems possible to me a film studio could use sentiment analysis on a corpora of film scripts mapped to their revenue.  In this manor a studio could identify what themes, characters, actions generated the most revenue. 
+
+Dear Hollywood,
+
+Don't actually do this."
+Film Production - Script Writing,2,Murat Akyildirim,Jack Russo,"I am not sure about a film script, but I heard there are content writing systems out there, that applies sentiment analysis based on certain topic and creates web articles to enhance SEO. "
+Film Production - Script Writing,2,Zachary Alexander,Jack Russo,"Hey Jack -- yes, definitely agree that I hope Hollywood doesn't actually try to do this, but you are right that the technology is now available to make this happen. Similar to Murat's point, I've been hearing a lot recently that news organizations are starting to automate article writing for very straightforward pieces (such as weather or updates on sports scores) to save costs and time -- I can totally see software being developed at some point, or maybe it's already out there, that can begin to measure the severity of a particular event (based on user feedback or a trained model), and utilizing that to shift the tone of a piece of automated writing. It's a very interesting/scary emerging field (automated journalism), but something that I think sentiment analysis will start to play an increasingly greater role in the years to come. I could definitely see this emerge in ways that you are referring to in your piece around Hollywood and film scripts!"
+Film Production - Script Writing,2,Sheryl Piechocki,Jack Russo,"I also read about news organizations utilizing automated article writing software.  I think the programs should be trained to write unbiased fact-based news stories.  A lot of ""news"" these days is really opinion or fake news or leans politically one way or the other.  Unbiased reporting of facts should be the goal of news organizations.  "
+Film Production - Script Writing,2,Jeremy O'Brien,Jack Russo,"Indeed, the technology does exist...  Back in 2016, hundreds of Hollywood scripts were fed to a long short-term memory recurrent neural network by Ross Goodwin.  It spat out a script which a bunch of folks. including Oscar Sharp and Thomas Middleditch (of HBO's 'Silicon Valley' fame) actually shot.  Witness it in all its irreducible grandeur here...I give you, Sunspring!
+
+TLDW; don't stop paying your Writer's Guild dues just yet... :)"
+Sentiment Analysis of Employee Satisfaction,1,Mael Illien,Mael Illien,"The article provided below takes a look at sentiment analysis within a company by and discusses how ML is used to dissect employee survey, feedback and reviews. The idea is driven by the increasing cost of burnout borne by employers as productive hours decrease and by employee as health concerns become more of a problem. In order to remedy this and keep their employees engaged and happy, companies are turning to sentiment analysis in order to turn qualitative feedback into business insight. The topic mining algorithms, identify the main themes of the feedback or complaints and compute the sentiment score for each topic or category. This can easily be studied more precisely by looking at employee roles and seeing if there is a disconnect in morale between job functions.
+
+While everyone has theories about how to boost productivity and morale, it is very valuable for companies to have data about their own staff. That way, managers are able to make data-driven decisions to remedy any brewing discontent in the company, reduce burnout and manage their image (Glassdoor reviews can be telling)."
+Customer Satisfaction,1,Ken Popkin,Ken Popkin,"Prior to the rise of social media, companies had to rely on customers' calls to Customer Service to identify how customers were ""feeling"".  Since very few (if any) customers ever call to say how great things are the information obtained only helped to assess negative areas that could be improved, with no visibility into what was going good or great from the public's point of view. Also, identifying trends would have to be done manually by reading call scripts or listening to recordings - all in all a slow and painful way to try to identify a trend.
+
+With social media channels serving up the data and the advances in applying machine learning to text, companies can now monitor both what's going well and what isn't going so well via this combination of data and technology.
+
+For example, on the site unionmetrics.com they cite nine ways, using data from Twitter and Instagam, to engage sentiment analysis to monitor how a company is doing at achieving a business goal to improve company and/or brand awareness: 1. Monitor changes in brand reputation over time, 2. Track changes in opinion and mood over time, 3. Research customer opinion about your company and products, 4. Compare perception of your brand to your competitors, 5. Evaluate the qualitative success of a campaign, 6. Pinpoint key topics or posts driving sentiment up or down, 7. Identify important trends...,  8. Identify potential issues early..., 9. Assess the actual impact of a crisis.
+
+Risks: Sentiment analysis is far from a completely accurate assessment approach though.  The book ""Sentiment Analysis and Opinion Mining"" cites a number of challenges to keep in mind: 1. Literal versus figurative meaning of words, 2. Neutral meaning of words, 3. Sarcasm, 4. Facts without sentiment words, and 5. Opinion spamming. "
+Sentiment Analysis in Health Insurance,1,Amber Ferger,Amber Ferger,"Like many other industries, health insurance companies deal with calls from members on a daily basis. These calls contain a lot of valuable information about the patient's feelings towards (1) the insurance company, (2) their care, and (3) their general wellbeing. This information can (and is!) being analyzed and used to educate providers, make decisions about product offerings, provide better case management, and prevent unhappy customers before they occur. 
+
+Educate Providers: By analyzing the sentiment of calls and linking to specific providers/facilities, executives can get a high-level view of the practitioners that are causing the most unhappy patients and take action to educate. 
+Make Decisions about Products: Understanding the insurance packages that cause the most upset/confused members can help lead to better design of explanatory materials and simpler product offerings. 
+Providing Better Case Management: Calls to insurance companies can often be from individuals with physical or emotional unhappiness. Identifying the sentiment of the members and notifying the case management department can help set up the individual with the help they need. 
+Preventing Unhappy Customers: Analyzing the characteristics of past unhappy customers can help prevent repeat callers or new callers with similar conditions. Once a ""trigger"" (ex: high cost claim) is identified, insurance plans can reach out to the individual asking if they have any questions before the individual calls. 
+Data primarily comes in the form of audio recordings of the calls. The sentiment can be analyzed directly from the converted text. In order to link the sentiment to a category, it can be supplemented with additional information about the member, including their current insurance offerings, demographic information, and claims data. This all-encompassing view can help insurance companies provide better service to the members that they have!"
+Sentiment Analysis in Health Insurance,2,Ken Popkin,Amber Ferger,"This a good example, Amber.  One thing for the providers to keep in mind (and I'm sure they do) is that members calling in are usually calling to discuss what didn't go right, so the data will probably be skewed towards negative trends and behavior."
+Sentiment Analysis in Health Insurance,2,Jack Russo,Amber Ferger,"As you mention, most of the corpora is derived from phone calls. This data has to be transcribed either manually or by a Neural Network. Do you see that as a limiting factor to this approach?"
+Sentiment Analysis in Health Insurance,2,Amber Ferger,Amber Ferger,"This is a really great point, and I can definitely see it as a limiting factor! However, with the expansion of voice to text services, I think it is less of a burden than it was 10 or so years ago. "
+Analysis of Tweets,1,Habib Khan,Habib Khan,"The following link gives a good example of how tweets can be used for insight analysis through creating word clouds, sentiment analysis and usage of natural language processing. Although this example doesn't show the extraction of tweets using API but it shows enough understanding of how texts can be used for analysis. In this example, analyst has shown how tweets were posted in specific hours by President Trump during the impeachment period. Wordcloud has also made to show the most frequently using words by President Trump along with the sentiments associated with it."
+Sentiment Analysis on You Tube Videos,1,Subhalaxmi Rout,Subhalaxmi Rout,"I found this article from AnalyticSteps, this blog shows a very simple way to do sentiment analysis on YouTube video’s comments. The article shows creating and applying sentiment analysis using a machine learning algorithm on YouTube video’s comments. Based on sentiment analysis content creators can maintain their content quality, timing, subtitle, etc.
+
+Domain under discussion?
+
+The domain under discussion is social media.
+
+What problem that sentiment analysis address?
+
+With the help of YouTube sentiment analysis of comments, the user(content creator) can get to know about the community acceptance of its channel/video. 
+What is the approach used?
+
+First step is to extract the comments from YouTube.
+
+Follow the below process:
+
+Add the polarity score to the dataset
+Data cleanup (remove space and stop words), add tokenization
+Data split (train, test)
+Apply model (fit train data into the model)
+Confusion Matrix
+Classification Report (accuracy, F1-score, precision)
+Describe a different domain, if possible where the same approach might also be effective?
+
+The same approach can be useful in other domains such as retail domain on product reviews, Social media (Twitter sentiment analysis). "
+Twitter Sentiment Analysis for 2013 Colorado Flood,1,Elina Azrilyan,Elina Azrilyan,"The following article talks about using sentiment analysis for Twitter data related to a Flood in Colorado. Twitter data was collected during the 2013 Colorado Flood event. Data was cleaned up and most frequently used words identified as  well as bigrams. Network plot showing grouped terms found in the tweets was created. Then polarity values were plotted in a histogram, to highlight the overall sentiment (i.e. more positivity or negativity) toward the subject. The same approach could be used in other disaster response times to gather the overall sentiment related for instance to the current pandemic and the actions taken in response."
+Chatbot for Mental Health,1,Sheryl Piechocki,Sheryl Piechocki,"The paper referenced below presents a chatbot that can be used for mental health.  The chatbot  would use a variety of techniques to determine the emotional state of the user, and would continuously monitor it, tailoring its responses as it learns.   The chatbot would provide counseling services and intervention techniques for the user.  The authors note there is a great demand for psychological services, but that there is a lack of experts.  In addition, costs of such services are high and therefore out of reach for many potential patients.  A chatbot service could provide the expertise at a reduced cost.  Health insurance companies could offer this service to their members to reduce costs for members, while increasing services and improving health."
+Chatbot for Mental Health,2,Elina Azrilyan,Sheryl Piechocki,That is a very interesting idea if we really do have the technology to make that a reality. As society is working towards reducing the stigma related to mental illness - this could be a helpful tool. People who are unsure about talking to a therapist could try this as an option and get some ideas about what they need to focus on in the future to improve their mental health.
+Sentiment Analysis on Amazon Ratings,1,Amber Ferger,Amber Ferger,"I found an interesting code-based article written by Mick Zhang titled Amazon Reviews using Sentiment Analysis. This was a really great overview of creating and applying a sentiment analysis algorithm to data that virtually everyone is familiar with -- product reviews. 
+
+What is the business domain under discussion? The business domain under discussion is retail shopping. 
+
+What is the problem that sentiment analysis addresses? Zhang mentions 2 business problems: (1) What products have low reviews and may be worse products? (2) What products have high reviews and may be better products?
+
+By understanding the product landscape, Amazon can identify which items to drop from its catalog. Sentiment Analysis fits into this because it can help shed light on the population's feelings about purchased products. 
+
+What is the approach used? 
+
+Data Exploration & Cleansing: It's always a good idea to take a look at the data before diving into an in-depth analysis. The dataset has 30,000 records and includes mostly positive ratings. The author standardizes the product names, splits the data into stratified training and testing sets so as not to train the classifier on imbalanced data. 
+Assign Labels: Since the dataset had no ""truth values"" for the sentiment, the author assigns sentiment (positive, neutral, negative) based on rating score. 
+Extract Features: Bag of Words Strategy -- assign an id to each word in the text and count the number of times the word appears. Implement TFIDF to weight the words. 
+Classifier: Multinomial Naive Bayes classifier is applied to the dataset to fit a model and predict on the data. 
+Analysis: The classifier is good at predicting positive ratings, but not great at predicting negative ratings. This is because the dataset is heavily skewed towards products that are highly rated. Additional negative and neutrally rated product information is needed to create a better model. 
+Is there a different domain where the same approach might also be effective? I could see this type of method being used in any industry that allows users to purchase goods or services and then review them. For example, one could look at the ratings for attractions on trip advisor and do a similar analysis. "
+Sentiment Analysis on Reddit News Headlines,1,Vijaya Cherukuri,Vijaya Cherukuri,"In the below article they are trying to do sentiment analysis on Reddit news headlines. By using sentiment analysis we can predict if a headline is either positive or negative.The dataset has 35% Negative news, 22 % Positive news and 43 % Neutral news.
+
+There needs to be lot of improvement on the architecture of the code and modeling. The confusion matrices are showing roughly half of the positive headlines are being misclassified, so there's a lot more work to be done. Also, There will be lot of insight in the dataset once we consider subreddits for sentiment, like stocks, companies, products, etc"
+Sentiment Analysis on Reddit News Headlines,2,Amber Ferger,Vijaya Cherukuri,This is really interesting - I wouldn't have thought to do an analysis on Reddit headlines. I think this could be very helpful in analyzing the content of specific subreddits to gage the general sentiment of the group's postings. It would also be very interesting to apply topic modeling in addition to sentiment analysis to see how the population's general feelings towards certain issues change over time. 
+Sentiment Analysis on Reddit News Headlines,2,Mael Illien,Vijaya Cherukuri,"While the news headlines may have a particular sentiment, I agree that there is a lot of sentiment not extracted by not diving into the actual content of the news articles, and even more so in the comments. This is valuable information if we wanted to assign a higher level sentiment score for individual subreddits.  "
+Sentiment Analysis on Reddit News Headlines,2,Habib Khan,Vijaya Cherukuri,You are right. Sentiment analysis comes quite handy in almost every field. Thanks for sharing. 
+Cell Phone Preferences,1,Mikhail Kollontai,Mikhail Kollontai,"A student from Oklahoma State University conducted a study with the goal of identifying features of Samsung/Apple phones that might drive consumers in their decisions between the two (http://www.scsug.org/wp-content/uploads/2017/10/rn13.pdf) . To do so she scraped reviews of the phones and analyzed them for recurring points being brought up with either positive or negative sentiment with respect to certain features. This sort of sentiment analysis can be used to inform future design decisions, marketing schemes. and cost-based decisions. "
+Cell Phone Preferences,2,Vijaya Cherukuri,Mikhail Kollontai,"Hi Mikhail, Nice information. Very good example to show positive and negative sentiment for Phones. It would have been great if we have the dataset and the code available :)"
+Cell Phone Preferences,2,Mikhail Kollontai,Mikhail Kollontai,If you can track her down on LinkedIn or something I'm sure she'd be happy to share!
+Sentiment Analysis for Stock Trading,1,"Abdellah Ait Elmouden 
+","Abdellah Ait Elmouden 
+","Tayloe Draughon shared in his blog the source code explain in his blog  the Twitter social sentiment analysis  from SMA that he used to to see if he could revitalize an underperforming stock trading algo. he said that It did result in a significant improvement.
+The test showed some indication that it could help but wasn't nearly long enough or a deep dive. 
+Here is the source code "
+Sentiment Analysis of Financial News,1,Mael Illien,Mael Illien,"The article referenced below uses sentiment analysis of financial news to devise an algorithmic trading strategy. Exploiting what is being written about a particular stock and leveraging that information to make buy or sell decisions can be very valuable. The author uses the VADER sentiment analysis model built into NLTK to compute an overall sentiment score for a day and makes a trading decision if there are changes in sentiment of more than 0.5. The results are not very satisfactory as the strategy loses money. In fact, by buying the hype instead of selling it, the author is doing the opposite of the conventional wisdom of “selling the (good) news”
+
+Many firms use NLP approaches to try to get an edge not just from news but also from earnings transcripts, speech transcripts from heads of central banks etc..."
+Sentiment Analysis of Financial News,2,Murat Akyildirim,Mael Illien,Thanks for sharing. I guess setting up the perception of a publicly traded firm's position is becoming more important every day. There are also many articles on predicting stock market based on Donald Trump's tweets. All of his tweets are being archived here:  http://www.trumptwitterarchive.com/archive or can be connected via twitter api(free version has limiations on tweets per load). 
+Classifying IMDB Movie Reviews,1,Priya Shaji,Priya Shaji,"IMDb lets users rate movies on a scale from 1 to 10. To label these reviews the curator of the data labeled anything with ? 4 stars as negative and anything with ? 7 stars as positive. Reviews with 5 or 6 stars were left out.
+
+Dataset used has 50,000 movie reviews taken from IMDb. 
+
+The data is split evenly with 25k reviews intended for training and 25k for testing classifier. Moreover, each set has 12.5k positive and 12.5k negative reviews.
+
+Same approach can be used in many different domains, like food review, product review etc."
+Classifying IMDB Movie Reviews,2,Vijaya Cherukuri,Priya Shaji,"Hi Priya,Good information. Thanks for sharing.
+
+Here is another article which is helpful in Improving a Movie Review Sentiment Classifier"
+IBM Watson Tone Analyzer,1,Ken Popkin,Ken Popkin,"IBM Watson's suite of products includes a Tone Analyzer tool that, ""uses linguistic analysis to detect joy, fear, sadness, anger, analytical, confident and tentative tones found in text.  IBM markets this product as a means to evaluate a company's draft content (marketing, promotions, internal memos, etc...) to assess if the overall tone of the content aligns with the message the company desires to communicate.  It accepts content from a number of sources ranging from Tweets to emails to custom text.
+
+
+Tone Analyzer appears straightforward to use; enter your content, press the ""Analyze"" button, and the results are displayed.  This approach enables the tool to cross any number of industries and business domains. 
+
+Click the link and give it a try."
+IBM Watson Tone Analyzer,2,Mikhail Kollontai,Ken Popkin,"Ken, this is very cool. I've been guilty of letting Watson's Jeopardy success blind me to the other work they are doing but I know there's much more to that program. I think an interesting aspect of this is how well it can identify sarcasm, which has become more and more a part of discourse with the emergence of social media."
+IBM Watson Tone Analyzer,2,"Abdellah Ait Elmouden 
+",Ken Popkin,The fact that analyzing tone of written text is difficult and perhaps inaccurate even for humans. Everyone types differently and sarcasm or aggression are usually understood with heavy context. But it's a cool project.
+Spotify Sentiment Analysis,1,Jithendra Seneviratne,Jithendra Seneviratne,"Here's a cool article about an app which lets Spotify users determine the sentiment of the lyrics to songs in their playlists (https://towardsdatascience.com/spotify-sentiment-analysis-8d48b0a492f2). The article says that there sometimes is a disconnect between the valence of a track (how euphoric or upbeat the song sounds) and the actual lyrics. To address this, the writer created sentiment scores for the songs based on the lyrics. This could be applied to online book purchases, poems or any other creative content where a significant amount of text is present."
+Sentiment Analysis on Reviews,1,Murat Akyildirim,Murat Akyildirim,"Business Domain: We work for an Hotel Chain, which has different acquisition channels including Social Media. And in Social Media naturally users are leaving comments. (positive or negative)
+
+Business Goal: Analyze the social media reviews and define next steps on marketing and business challenges.
+
+Approach Used: The reviews are collected as a serial number, a unique identifier and text that is customer review. We would follow the below process
+
+1-      Identify Topics and Sub Topics
+
+2-      Build Taxonomy
+
+3-      Map Customer Reviews to Topics
+
+4-      Map Customer Reviews to Sentiment
+
+In terms of identifying topics we can look at Term Frequency and Inverse Document Frequency or LDA. For Building Taxonomy we first build the topic hierarchy and then the keywords. We further map the customer reviews to topic.
+
+This can be done with Python NLTK package.
+
+Another use case would be, a brand awareness or advertising in Amazon or other third party integrations (such as Power Reviews, or Price Spider). These platforms allow users to leave comments and feedback on products and servies. Same approach can be used to gain insights and further alter the marketing campaigns , tone and creative accordingly."
+Customer Satisfaction - textblob,1,Jack Russo,Jack Russo,"The Text Blob Python Package allows you to gauge customer sentiment out of the box, no model training required!
+
+Check out this medium article."
+Customer Satisfaction - textblob,2,Ken Popkin,Jack Russo,"Great example of what this discussion was looking for, Jack!  I'm going to keep this in mind for any text analysis my team does for the Final Project and future NLP work beyond this course."
+Customer Satisfaction - textblob,2,Subhalaxmi Rout,Jack Russo,"Interesting article Jack! Using TextBlob and VADER package calculate polarity score and sentiment score (positive, negative, neutral) made easy."
+"Shakespearean Plays using W2V and t-SNE
+",1,Jithendra Seneviratne,Jithendra Seneviratne,"Here's  a short blog post on a project I did comparing Shakespearean Comedies and Tragedies. The Tragedies seem to have a stronger gravitational center in a 2d plane. Naturally, the corpora may not have enough text to make a definite statement about the closeness of words. However, we do know that Tragedies generally have a lot more text spoken by the central antagonist."
+"Real-time social media sentiment analysis for brand improvements
+",1,Habib Khan,Habib Khan,"Reviews and customer's feedback are the significant factors nowadays due to high competition and easy access of information. I think text mining comes very handy to analyze consumer's mindset on the company's products that would help them to improve their business operations, etc. I believe platforms such as twitter, instagram and facebook are popular sources of information on the products and they can easily can be accessible and filter out the texts. Usage of text mining techniques such as wordcloud, sentiment analysis, etc can be very useful to identify the issues in the products. Automation of data can make it real-time and flow of data would be constant. I found this article quite useful."
+Word Frequency in Text Over Time,1,Elina Azrilyan,Elina Azrilyan,"On the webpage below you can see some examples of word frequency in texts over time. The link is providing some examples of Text and Language Processing tools available. There are several interesting graphs, for example of word frequency between “VHS” and “Betamax” between 1960 and 2000s. You can “discover when the pen became mightier than the sword.” by looking at the graph of those word’s frequency between 1700 and 2000. 
+
+https://www.wolfram.com/language/11/text-and-language-processing/word-frequency-over-time.html?product=language"
+Word Frequency in Text Over Time,2,Habib Khan,Elina Azrilyan,That was nice example. Thanks for sharing
+Global Network of startup mergers and acquistions,1,Subhalaxmi Rout,Subhalaxmi Rout,"The Network analysis is about mergers and acquisitions (M&A), which is an integral aspect of the start-up ecosystem.
+What visualization shows?
+
+The network analysis graph shows the major Hubs and countries with most of the start-ups' Mergers & Acquisitions. Data collection Complete list of acquisitions that occurred around the world from January 2015 to September 2016 was used for the analysis.
+
+Do you think that this visualization is accurate and effective? 
+
+Yes, this visualization is mostly accurate because the network graph shows the USA, Great Britain, Canada has the most inbound international M&A deal flow. However, in regular international trade, America’s biggest trading partners are the European Union, Canada, China, Mexico, Japan, South Korea, and Brazil. The network analysis graph shows a very sparse line of trade between the USA to South Korea, Brazil, Mexico.
+
+How might you improve upon it? 
+
+The data collected from January 2015 to September 2016 (about 20 months), if the analysis would have 5 or 10 years of data then we may see some more interesting M&A trade connections between the countries."
+Warming the World,1,Vijaya Cherukuri,Vijaya Cherukuri,"Now a days we see the temperatures are increasing gradually every year. There are multiple reasons for it like Earths orbit, Sun's temperature, Human industry emits CO2, Deforestation, Ozone pollution, Aerosol pollution etc.
+
+There will be lot of data elements involved with this and inturn needs huge amount of data. It will be very hard to analyze without proper visualization.
+
+The visualization in the below link provides detailed information of different parameters impacting the increasing temperatures."
+Bus Bunching,1,Priya Shaji,Priya Shaji,"A wonderful example of a complex data set boiled down into what that looks and feels like a game. In this visualization, the folks at Setosa are showing how ""bus bunching"" happens, i.e. when a bus gets delayed and later causes multiple buses to arrive at a single stop at the same time.
+
+
+Telling this story in numbers alone would be pretty difficult, but instead, they turn it into an interactive game.
+
+While the buses rotate along a route, we can click and hold a button (Bus 1 or Bus 2 ) to delay a bus. Then, all we have to do is watch to see how even a short delay causes the buses to bunch together after a time."
+Song Lyrics,1,Mikhail Kollontai,Mikhail Kollontai,"The visualization above from Reddit user u/PDBFishsticks is a visualization over time in that each edge in the network corresponds to a word that comes after the other in the lyrics of 99 bottles of beer on the wall. By following the paths you can see the obvious pattern within the song. Obviously this is a very simple song, but it's still interesting to see the pattern, with the edges between ""Bottles"", ""of"" and ""Beer"" coming twice as thick since they are repeated in ""x bottles of beer on the wall, x bottles of beer"". 
+
+I like the addition of the singular bubble for ""bottle"" for when the count drops to 1 bottle. In order to make it clearer though I may change the color of the number nodes to be different from the rest of the words. ""Bottle"" blends in with the numbers as it is now. I think putting together similar networks for songs with a lot of repeated lyrics could be interesting (I have seen it before)."
+Song Lyrics,2,Habib Khan,Mikhail Kollontai,Nice find! It is really interesting to see the distribution and observe the pattern here!
+Stock Market Data in 30 Seconds,1,"Abdellah Ait Elmouden 
+","Abdellah Ait Elmouden 
+","This data visualization shows Last week's stock market volatility in 30 seconds.
+
+Data was gathered from Google and Yahoo Finance, and visualization done in Javascript with D3. Web version is here:"
+Stock Market Data in 30 Seconds,2,Mikhail Kollontai,"Abdellah Ait Elmouden 
+",I've been really loving the recent obsession with new ways to present data and this one is so eye-catching. Obviously generalizes a lot of the data but for a big picture presentation it is quite great. 
+Stock Market Data in 30 Seconds,2,Vijaya Cherukuri,"Abdellah Ait Elmouden 
+",Great example Abdellah. Visualization is key in representing the data. This example clearly details representing large volume of data.
+Stock Market Data in 30 Seconds,2,Mael Illien,"Abdellah Ait Elmouden 
+","This is great. It is interesting to see how once some companies leave the swarm in either direction , they tend to remain in that territory (positive or negative returns), especially the outliers,  which makes sense due to momentum.  "
+Netherlands Train Network Visualization,1,Mael Illien,Mael Illien,"This pretty amazing visualization shows the network of train travel in the western Netherlands. When trains move from an origin to a destination, the edges between these two points are distorted to reflect this connectivity and as less trains use the routes, the nodes settle back to their geographical location. While visually very pleasing, it is hard to extract information at first glance, especially when the geographical distortion is applied. Without being able to refer to individual trains or routes, it is not obvious how to use this visual tool to make actual improvements to the network.  However, if we use the scroll bar to slow down the speed we can see more clearly how connected some of these network nodes are. This is useful information for deciding future infrastructure development, evaluating demand and usage, etc. This would be a useful visualization and analysis to have for any subway/rail system in order to identify bottlenecks, isolated stations and stations where trains get held up too long."
+Netherlands Train Network Visualization,2,Vijaya Cherukuri,Mael Illien,"Hi Mael, 
+
+Good information. Took some time for me to understand but really helpful in analyzing the train network. "
+Netherlands Train Network Visualization,2,Subhalaxmi Rout,Mael Illien,Nice post!  It is really interesting to see the centrality measures of the nodes.
+Netherlands Train Network Visualization,2,"Abdellah Ait Elmouden 
+",Mael Illien,That's a really cool way to visualize periodic behavior.
+Shiny App - Word Frequency Analysis Over Time,1,Jack Russo,Jack Russo,Check out this Shiny App that measures word frequency over time. The subreddit from the 2015 NFL draft is used as the base data.
